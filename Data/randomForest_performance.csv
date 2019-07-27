@@ -1,0 +1,13 @@
+ACCURACY (%),PRECISION (%),RECALL (%),F1 (%),ROC AUC (%)
+Train CountVec,100.00,100.00,100.00,100.00,100.00
+Train CountVec porter,100.00,100.00,100.00,100.00,100.00
+Train CountVec snowball,100.00,100.00,100.00,100.00,100.00
+Train TfidfVec,100.00,100.00,100.00,100.00,100.00
+Train TfidfVec porter,100.00,100.00,100.00,100.00,100.00
+Train TfidfVec snowball,100.00,100.00,100.00,100.00,100.00
+Test CountVec,64.00,57.14,40.00,47.06,60.00
+Test CountVec porter,69.00,64.52,50.00,56.34,65.83
+Test CountVec snowball,67.00,61.29,47.50,53.52,63.75
+Test TfidfVec,70.00,67.86,47.50,55.88,66.25
+Test TfidfVec porter,68.00,64.29,45.00,52.94,64.17
+Test TfidfVec snowball,66.00,60.00,45.00,51.43,62.50

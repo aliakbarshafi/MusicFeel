@@ -1,0 +1,3 @@
+ACCURACY (%),PRECISION (%),RECALL (%),F1 (%),ROC AUC (%)
+Training,86.55,100.00,69.55,82.04,84.77
+Validation,62.00,62.50,12.50,20.83,53.75
