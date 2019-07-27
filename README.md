@@ -1,2 +1,2 @@
 # MusicFeel
-Identify the the mood of music using Lyrics!
+Identify the the mood of music using Lyrics.
