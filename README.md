@@ -1,2 +1,2 @@
 # MusicFeel
-Classifying music mood using Lyrics
+Identify the the mood of music using Lyrics.
